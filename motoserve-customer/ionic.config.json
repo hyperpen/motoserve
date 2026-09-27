@@ -1,0 +1,7 @@
+{
+  "name": "motoserve-customer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
